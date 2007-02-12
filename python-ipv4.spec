@@ -2,7 +2,7 @@
 %define 	module	ipv4
 
 Summary:	IPv4 Utils - A module that helps dealing with IPv4 networks, hosts and other concepts
-Summary(pl):	IPv4 - modu≥ pomagaj±cy w obs≥udze sieci, hostÛw i innych aspektÛw IPv4
+Summary(pl.UTF-8):   IPv4 - modu≈Ç pomagajƒÖcy w obs≈Çudze sieci, host√≥w i innych aspekt√≥w IPv4
 Name:		python-%{module}
 Version:	0.35
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A module that helps dealing with IPv4 networks, hosts and other
 concepts.
 
-%description -l pl
-Modu≥ pomagaj±cy w obs≥udze sieci, hostÛw i innych aspektÛw IPv4.
+%description -l pl.UTF-8
+Modu≈Ç pomagajƒÖcy w obs≈Çudze sieci, host√≥w i innych aspekt√≥w IPv4.
 
 %prep
 %setup -q -n usr 
