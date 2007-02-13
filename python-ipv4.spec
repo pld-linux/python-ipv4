@@ -2,7 +2,7 @@
 %define 	module	ipv4
 
 Summary:	IPv4 Utils - A module that helps dealing with IPv4 networks, hosts and other concepts
-Summary(pl.UTF-8):   IPv4 - moduł pomagający w obsłudze sieci, hostów i innych aspektów IPv4
+Summary(pl.UTF-8):	IPv4 - moduł pomagający w obsłudze sieci, hostów i innych aspektów IPv4
 Name:		python-%{module}
 Version:	0.35
 Release:	1
