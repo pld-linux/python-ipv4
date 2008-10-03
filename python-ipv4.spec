@@ -5,7 +5,7 @@ Summary:	IPv4 Utils - A module that helps dealing with IPv4 networks, hosts and 
 Summary(pl.UTF-8):	IPv4 - moduł pomagający w obsłudze sieci, hostów i innych aspektów IPv4
 Name:		python-%{module}
 Version:	0.35
-Release:	1
+Release:	2
 License:	GPL
 Group:		Libraries/Python
 Source0:	http://www.sil-tec.gr/~tzot/python/IPv4_Utils-0.35.linux-i586.tar.gz
